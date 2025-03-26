@@ -1,0 +1,3 @@
+﻿  Sorting of data arrays.cpp
+C:\Users\Misha\Desktop\FIT\AISD\Lab_03\Sorting of data arrays\Sorting of data arrays.cpp(69,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Sorting of data arrays.vcxproj -> C:\Users\Misha\Desktop\FIT\AISD\Lab_03\Sorting of data arrays\x64\Debug\Sorting of data arrays.exe

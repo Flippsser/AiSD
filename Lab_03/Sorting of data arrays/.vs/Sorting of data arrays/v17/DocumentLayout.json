@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Lab_03\\Sorting of data arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{923C52E3-29D4-4C57-B5F9-484D87BF0EC2}|Sorting of data arrays.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Lab_03\\Sorting of data arrays\\Sorting of data arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{923C52E3-29D4-4C57-B5F9-484D87BF0EC2}|Sorting of data arrays.vcxproj|solutionrelative:Sorting of data arrays.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sorting of data arrays.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Lab_03\\Sorting of data arrays\\Sorting of data arrays.cpp",
+              "RelativeDocumentMoniker": "Sorting of data arrays.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Lab_03\\Sorting of data arrays\\Sorting of data arrays.cpp",
+              "RelativeToolTip": "Sorting of data arrays.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAIYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-23T13:24:52.587Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
