@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Labs\\Lab_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F04DDB8-D58E-4FB5-97C8-3DB86FE9818D}|Lab05\\Lab05.vcxproj|C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Labs\\Lab_05\\Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F04DDB8-D58E-4FB5-97C8-3DB86FE9818D}|Lab05\\Lab05.vcxproj|solutionrelative:Lab05\\Lab05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab05.cpp",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Labs\\Lab_05\\Lab05\\Lab05.cpp",
+              "RelativeDocumentMoniker": "Lab05\\Lab05.cpp",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\FIT\\AISD\\Labs\\Lab_05\\Lab05\\Lab05.cpp",
+              "RelativeToolTip": "Lab05\\Lab05.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T05:08:52.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

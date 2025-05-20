@@ -1,0 +1,4 @@
+﻿  Binary Search.cpp
+C:\Users\Misha\Desktop\FIT\AISD\Lab_02\Binary Search\Binary Search.cpp(22,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Misha\Desktop\FIT\AISD\Lab_02\Binary Search\Binary Search.cpp(43,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Binary Search.vcxproj -> C:\Users\Misha\Desktop\FIT\AISD\Lab_02\Binary Search\x64\Debug\Binary Search.exe
